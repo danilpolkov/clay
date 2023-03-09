@@ -1,0 +1,40 @@
+item { 
+	name:'TEXT'
+	id:4
+}
+item { 
+	name:'IMAGE'
+	id:1
+}
+item { 
+	name:'BUTTON'
+	id:3
+}
+item { 
+	name:'TEXT_INPUT'
+	id:6
+}
+item { 
+	name:'CHECK_BOX'
+	id:8
+}
+item { 
+	name:'MAP'
+	id:7
+}
+item { 
+	name:'SWITCH'
+	id:9
+}
+item { 
+	name:'PAGER_INDICATOR'
+	id:10
+}
+item { 
+	name:'SLIDER'
+	id:11
+}
+item { 
+	name:'DATE_PICKER'
+	id:22
+}
