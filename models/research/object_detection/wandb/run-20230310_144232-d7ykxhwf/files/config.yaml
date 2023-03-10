@@ -1,0 +1,164 @@
+wandb_version: 1
+
+'?':
+  desc: null
+  value: false
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.11
+    framework: keras
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.8.2
+    start_time: 1678455752.026682
+    t:
+      1:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      2:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      3:
+      - 16
+      - 23
+      - 35
+      4: 3.8.2
+      5: 0.13.11
+      8:
+      - 5
+alsologtostderr:
+  desc: null
+  value: false
+checkpoint_dir:
+  desc: null
+  value: null
+checkpoint_every_n:
+  desc: null
+  value: 1000
+delta_threshold:
+  desc: null
+  value: 0.5
+eval_on_train_data:
+  desc: null
+  value: false
+eval_timeout:
+  desc: null
+  value: 3600
+hbm_oom_exit:
+  desc: null
+  value: true
+help:
+  desc: null
+  value: false
+helpfull:
+  desc: null
+  value: false
+helpshort:
+  desc: null
+  value: false
+helpxml:
+  desc: null
+  value: false
+log_dir:
+  desc: null
+  value: ''
+logger_levels:
+  desc: null
+  value: {}
+logtostderr:
+  desc: null
+  value: false
+model_dir:
+  desc: null
+  value: /Users/danil/Documents/github/clay/workspace/models/my_ssd_mobnet
+num_train_steps:
+  desc: null
+  value: 2000
+num_workers:
+  desc: null
+  value: 1
+only_check_args:
+  desc: null
+  value: false
+op_conversion_fallback_to_while_loop:
+  desc: null
+  value: true
+pdb:
+  desc: null
+  value: false
+pdb_post_mortem:
+  desc: null
+  value: false
+pipeline_config_path:
+  desc: null
+  value: /Users/danil/Documents/github/clay/workspace/models/my_ssd_mobnet/pipeline.config
+profile_file:
+  desc: null
+  value: null
+record_summaries:
+  desc: null
+  value: true
+run_with_pdb:
+  desc: null
+  value: false
+run_with_profiling:
+  desc: null
+  value: false
+runtime_oom_exit:
+  desc: null
+  value: true
+sample_1_of_n_eval_examples:
+  desc: null
+  value: null
+sample_1_of_n_eval_on_train_examples:
+  desc: null
+  value: 5
+showprefixforinfo:
+  desc: null
+  value: true
+stderrthreshold:
+  desc: null
+  value: fatal
+test_random_seed:
+  desc: null
+  value: 301
+test_randomize_ordering_seed:
+  desc: null
+  value: ''
+test_srcdir:
+  desc: null
+  value: ''
+test_tmpdir:
+  desc: null
+  value: /var/folders/t7/w72rk3w55mdcd4_ycwnf8ffr0000gp/T/absl_testing
+tpu_name:
+  desc: null
+  value: null
+tt_check_filter:
+  desc: null
+  value: false
+tt_single_core_summaries:
+  desc: null
+  value: false
+use_cprofile_for_profiling:
+  desc: null
+  value: true
+use_tpu:
+  desc: null
+  value: false
+v:
+  desc: null
+  value: 0
+verbosity:
+  desc: null
+  value: 0
+xml_output_file:
+  desc: null
+  value: ''

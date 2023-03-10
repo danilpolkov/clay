@@ -1,0 +1,46 @@
+{
+    "os": "macOS-12.6.3-x86_64-i386-64bit",
+    "python": "3.8.2",
+    "heartbeatAt": "2023-03-10T13:42:32.808663",
+    "startedAt": "2023-03-10T13:42:32.017477",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_dir=/Users/danil/Documents/github/clay/workspace/models/my_ssd_mobnet",
+        "--pipeline_config_path=/Users/danil/Documents/github/clay/workspace/models/my_ssd_mobnet/pipeline.config",
+        "--num_train_steps=2000"
+    ],
+    "state": "running",
+    "program": "/Users/danil/Documents/github/clay/models/research/object_detection/model_main_tf2.py",
+    "codePath": "research/object_detection/model_main_tf2.py",
+    "git": {
+        "remote": "https://github.com/tensorflow/models.git",
+        "commit": "12019f750fa78a897db5991e2b849de81139bd9b"
+    },
+    "email": "danilpolkov14@rambler.ru",
+    "root": "/Users/danil/Documents/github/clay/models",
+    "host": "AnyMacs-MacBook-Pro.local",
+    "username": "danil",
+    "executable": "/Users/danil/Documents/github/clay/env/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 19.220184326171875
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
